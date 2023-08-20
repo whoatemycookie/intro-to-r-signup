@@ -289,7 +289,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete this survey after the workshop.</p>
-<p><a href="https://www.surveymonkey.com/r/intro-stats-with-r">Post-workshop Survey</a></p>
+<p><a href="https://www.surveymonkey.com/r/saigenci-intro-to-r">Post-workshop Survey</a></p>
 
 <hr/>
 
